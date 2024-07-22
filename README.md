@@ -2,7 +2,7 @@
 
 - ✨ I am very curious and constantly seeking to learn new things.
 - 🌱 Current Studies: Pursuing a degree in Computer Science and Technology at Nanjing University of Posts & Telecommunications.
-- 🌐 Collaboration: Open to collaborating on Java projects.
+- 🌐 Collaboration: Open to collaborate on Java projects.
 - 🪽 Pronouns: she/her/hers.
 - 🎶 Fun fact: I love singing and I am a singer.
 
