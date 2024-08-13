@@ -1,11 +1,14 @@
-<h1 align="center">Hi 🧝🏻‍♀️, I'm Rhyme Sahin Sultana</h1>
-<h3 align="center">A devoted frontend developer from Bangladesh, residing in Nanjing, China.</h3>
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
+<h1 align="left"> 🧚🏻‍♀️ Hi 🧝🏻‍♀️ , I'm Rhyme Shahin Sultana</h1>
+<h3 align="center">A devoted frontend developer from Bangladesh, residing in Nanjing, China.</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhyme-ssr&label=Profile%20views&color=0e75b6&style=flat" alt="rhyme-ssr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhyme-ssr" alt="rhyme-ssr" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ssrrhyme" target="blank"><img src="https://img.shields.io/twitter/follow/ssrrhyme?logo=twitter&style=for-the-badge" alt="ssrrhyme" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 - 🌱 I’m currently learning **HTML/CSS and JavaScript**
 
